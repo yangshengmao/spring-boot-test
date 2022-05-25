@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/../spring-boot-mapper/pom.xml" />
         <option value="$PROJECT_DIR$/../springboot-transactional/pom.xml" />
         <option value="$PROJECT_DIR$/../springboot-restful/pom.xml" />
+        <option value="$PROJECT_DIR$/../springgithub/pom.xml" />
       </list>
     </option>
   </component>
